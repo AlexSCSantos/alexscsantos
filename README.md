@@ -1,7 +1,7 @@
 ### Welcome To My Profile 👋
 <br>
 <br>
-Oi sou o Alex, Estou iniciando na programação, atualmente estou aprendendo e criando projeto com HTML, CSS e JavaScript e React.
+Iniciando na programação, atualmente estou aprendendo e criando projeto com HTML, CSS e JavaScript e React.
 <br>
 <br>
 <br>
